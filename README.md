@@ -47,16 +47,3 @@ Most of what's here follows one rule: **it should work on your own machine, with
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SchndrDavid&show_icons=true&hide_border=true&hide_title=true&theme=transparent&count_private=true" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchndrDavid&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" height="150" />
-</p>
-
----
-
-<p align="center">
-  <sub>🐧 If a tool needs my e-mail address to show me my own data, I'll write my own.</sub>
-</p>
