@@ -31,6 +31,7 @@ Most of what's here follows one rule: **it should work on your own machine, with
 | [**tester**](https://github.com/SchndrDavid/tester) | Multiple-choice tests from a plain text file — write a question, mark answers with `+` and `-`, done. Random rounds, partial scoring. |
 | [**gymtrack**](https://github.com/SchndrDavid/gymtrack) | A year of training at a glance, plus a workout runner that knows a barbell from a plank. |
 | [**Handover**](https://github.com/SchndrDavid/Handover) | Self-hosted file drop between your own devices. Upload on your phone, grab it on your laptop, no cloud in the middle. |
+| [**EasyMeme**](https://github.com/SchndrDavid/easymeme) | Drop a photo in, type a caption, get a meme with a white bar and black text — then share it. |
 
 ---
 
